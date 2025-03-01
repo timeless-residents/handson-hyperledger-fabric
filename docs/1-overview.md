@@ -20,8 +20,6 @@ Hyperledger Fabricは「execute-order-validate」と呼ばれるユニークな�
 2. **順序付け（Order）**: 認証済みのトランザクションは順序付けサービスによって順序付けされます
 3. **検証（Validate）**: コミッターノードがトランザクションを検証し、台帳に追加します
 
-![Hyperledger Fabricのアーキテクチャ](./images/fabric-architecture.png)
-
 ## 主要コンポーネント
 
 ### ピア（Peer）
