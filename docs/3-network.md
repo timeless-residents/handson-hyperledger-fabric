@@ -10,8 +10,6 @@ Fabric Samplesに含まれる`test-network`は、Hyperledger Fabricの機能を�
 - 1つのオーダリングサービス
 - Certificate Authority（CA）サーバー
 
-![テストネットワーク構成](./images/test-network.png)
-
 ## 1. テストネットワークの起動
 
 ### 基本的な起動
